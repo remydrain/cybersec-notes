@@ -1,0 +1,32 @@
+# Foundations of Cybersecurity
+- ## Week 1
+- **Cybersecurity (or security):** The practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation
+- **Cloud security:** The process of ensuring that assets stored in the cloud are properly configured and access to those assets is limited to authorized users
+- **Internal threat:** A current or former employee, external vendor, or trusted partner who poses a security risk
+- **Network security:** The practice of keeping an organization's network infrastructure secure from unauthorized access
+- **Personally identifiable information (PII):** Any information used to infer an individual's identity
+- **Security posture:** An organization's ability to manage its defense of critical assets and data and react to change
+- **Sensitive personally identifiable information (SPII):** A specific type of **PII** that falls under stricter handling guidelines
+- **Technical skills:** Skills that require knowledge of specific tools, procedures, and policies
+- **Threat:** Any circumstance or event that can negatively impact assets
+- **Threat actor:** Any person or group who presents a security risk
+- **Transferable skills:** Skills from other areas that can apply to different careers
+- ## Week 2
+- **Adversarial artificial intelligence (AI):** A technique that manipulates artificial intelligence (AI) and machine learning (ML) technology to conduct attacks more efficiently
+- **Business Email Compromise (BEC):** A type of phishing attack where a threat actor impersonates a known source to obtain financial advantage
+- **Computer virus:** Malicious code written to interfere with computer operations and cause damage to data and software
+- **Cryptographic attack:** An attack that affects secure forms of communication between a sender and intended recipient
+- **Hacker:** Any person who uses computers to gain access to computer systems, networks, or data
+- **Malware:** Software designed to harm devices or networks
+- **Password attack:** An attempt to access password secured devices, systems, networks, or data
+- **Phishing:** The use of digital communications to trick people into revealing sensitive data ro deploying malicious software
+- **Physical attack:** A security incident that affects not only digital but also physical environments where the incident is deployed
+- **Physical social engineering:** An attack in which a threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location
+- **Social engineering:** A manipulation technique that exploits human error to gain private information, access, or valuables
+- **Social media phishing:** A type of attack where a threat actor collects detailed information about their target on social media sites before initiating the attack
+- **Spear phishing:** A malicious email attack targeting a specific user or group of users, appearing ot originate from a trusted source
+- **Supply-chain attack:** An attack that targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed
+- **USB baiting:** An attack in which a threat actor strategically leaves a malware USB stick for an employee to find and install to unknowingly infect a network
+- **Virus:** refer to "computer virus"
+- **Vishing:** The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source
+- **Watering hole attack:** A type of attack when a threat actor compromises a website frequently visited by a specific group of users
